@@ -3,11 +3,11 @@ Hi, I am Pranav Nilopant
 Worked as Graduate Engineer Trainee at Sagar Defence Engineering and worked on UAV systems.
 
 
-> Currently building SmartFin AI — a personal finance platform with ML-based expense categorization, forecasting, and explainable recommendations
-> Comfortable with: DroneKit, ArduPilot, Mission Planner, PX4, OpenCV, MediaPipe
-> Currently learning and exploring open-source contributions
-> Mail me: pranavnilopant@gmail.com
-> LinkedIn: https://www.linkedin.com/in/pranav-nilopant/
+1) Currently building SmartFin AI — a personal finance platform with ML-based expense categorization, forecasting, and explainable recommendations
+2) Comfortable with: DroneKit, ArduPilot, Mission Planner, PX4, OpenCV, MediaPipe
+3) Currently learning and exploring open-source contributions
+4) Mail me: pranavnilopant@gmail.com
+5) LinkedIn: https://www.linkedin.com/in/pranav-nilopant/
 
 
 
